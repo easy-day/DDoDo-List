@@ -7,11 +7,12 @@
 1. ### 👨‍👩‍👧‍👦팀원 소개
 2. ### 💻프로젝트 소개
 
-- - 2-1**Overview**
-- - 2-2**사용 기술**
-- - 2-3**배포 구조**
-- - 2-4**DevOps**
-- - 2-5**Data Flow**
+- - 2-1 **Overview**
+- - 2-2 **사용 기술**
+- - 2-3 **배포 구조**
+- - 2-4 **Microservice Architecture**
+- - 2-5 **DevOps**
+- - 2-6 **Data Flow**
 
 3. ### 📌프로젝트 목표
 4. ### 🎥시연
@@ -35,11 +36,13 @@
 
 ### 2-3. ⚙️배포 구조
 
-![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Architecture.png)
+![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment-Architecture.png)
 
-### 2-4. ⛓DevOps
+### 2-4. Microservice Architecture
 
-### 2-5. 💾Data Flow
+### 2-5. ⛓DevOps
+
+### 2-6. 💾Data Flow
 
 ## 3. 📌프로젝트 목표
 
