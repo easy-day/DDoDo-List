@@ -4,11 +4,10 @@
 
 1. ### 👨‍👨‍👧팀원 소개
 
-|  👨‍👨‍👧  |  Project Manager   |          Leader          |          Leader          |          Leader          |          Member           |      Member       |      Member       |
-| :--: | :----------------: | :----------------------: | :----------------------: | :----------------------: | :-----------------------: | :---------------: | :---------------: |
-| Name |       장원익       |          허혜진          |          박지훈          |          최재웅          |          서광용           |      김예원       |      이강산       |
-| Role |        팀장        | Front(React)-Team Leader | Back(Django)-Team Leader | Back(Spring)-Team Leader | Back(Django)-Team Members | Front-Team Member | Front-Team member |
-| Part | Technical Managing |    React, Sass, NginX    |  Django, Tomcat, Docker  |   Spring, Tomcat, AWS    |    Django, Tomcat, SQL    |        Css        |        Css        |
+|  👨‍👨‍👧  | Project Manager | Leader | Leader | Leader | Member | Member | Member |
+| :--: | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Name |     장원익      | 허혜진 | 박지훈 | 최재웅 | 서광용 | 김예원 | 이강산 |
+| Role |      팀장       | React  | Django | Spring | Django | Front  | Front  |
 
 2. ### 💻프로젝트 소개
 
