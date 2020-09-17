@@ -4,17 +4,17 @@
 
 ## 목차
 
-1. ### 👨‍👩‍👧‍👦[팀원 소개](#👨‍👩‍👧‍👦팀원-소개)
-2. ### 💻[프로젝트 소개](#💻프로젝트-소개)
+1. ### 👨‍👩‍👧‍👦[팀원 소개](#-팀원-소개)
+2. ### 💻[프로젝트 소개](#-프로젝트-소개)
 
-- - 2-1 [Overview](#🖥overview)
-- - 2-2 [사용 기술](#🛠사용-기술)
-- - 2-3 [배포 구조](#⚙️배포-구조)
-- - 2-4 [Microservice Architecture](#🔋microservice-architecture)
-- - 2-5 [DevOps](#⛓devops)
-- - 2-6 [Data Flow](#data-flow)
+- - 2-1 [Overview](#-overview)
+- - 2-2 [사용 기술](#-사용-기술)
+- - 2-3 [배포 구조](#-배포-구조)
+- - 2-4 [Microservice Architecture](#-microservice-architecture)
+- - 2-5 [DevOps](#-devops)
+- - 2-6 [Data Flow](#-data-flow)
 
-3. ### 📌[프로젝트 목표](#프로젝트-목표)
+3. ### 📌[프로젝트 목표](#-프로젝트-목표)
 4. ### 🎥시연
 
 ---
