@@ -1,4 +1,17 @@
-# DDoDo List
+# DDoDo List!
 
-Hello This is Ddodolist
+---
 
+## 목차
+
+---
+
+1. 팀원 소개
+2. 프로젝트 소개
+
+- 사용 기술
+- 배포 구조
+- 서비스 진행 흐름도
+
+3. Image
+4. 시연
