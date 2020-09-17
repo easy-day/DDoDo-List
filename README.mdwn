@@ -36,7 +36,7 @@
 
 ### 2-3. ⚙️배포 구조
 
-![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment-Architecture.png)
+![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png)
 
 ### 2-4. Microservice Architecture
 
