@@ -44,6 +44,8 @@
 
 **Server Side Discovery**
 
+![Microservice](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Microservice%20Architecture.png)
+
 ### 2-5. ⛓DevOps
 
 ### 2-6. 💾Data Flow
