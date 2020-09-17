@@ -42,6 +42,8 @@
 
 ### 2-4. Microservice Architecture
 
+**Server Side Discovery**
+
 ### 2-5. ⛓DevOps
 
 ### 2-6. 💾Data Flow
