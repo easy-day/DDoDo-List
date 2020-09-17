@@ -40,7 +40,7 @@
 
 ### 2-3. ⚙️배포 구조
 
-![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png){: width="70%" height="70%"}
+![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Server Side Discovery**
 
-![Microservice](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Microservice%20Architecture.png){: width="70%" height="70%"}
+![Microservice](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Microservice%20Architecture.png)
 
 ---
 
