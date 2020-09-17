@@ -7,9 +7,9 @@
 1. ### 👨‍👩‍👧‍👦[팀원 소개](#-팀원-소개)
 2. ### 💻[프로젝트 소개](#-프로젝트-소개)
 
-- - 2-1 [Overview](#2-1.-overview)
-- - 2-2 [사용 기술](#2-2.-사용-기술)
-- - 2-3 [배포 구조](#2-3.-배포-구조)
+- - 2-1 [Overview](#-overview)
+- - 2-2 [사용 기술](#-사용-기술)
+- - 2-3 [배포 구조](#-배포-구조)
 - - 2-4 [Microservice Architecture](#-microservice-architecture)
 - - 2-5 [DevOps](#-devops)
 - - 2-6 [Data Flow](#-data-flow)
@@ -31,23 +31,23 @@
 
 ## 2. 💻 프로젝트 소개
 
-### 2-1. 🖥 Overview
+### 🖥 Overview
 
 #### 컴퓨터를 뚜두리는 우리들을 위한 _세련된_ 🔖DDoDo List🔖 뚜두 리스트.
 
-### 2-2. 🛠 사용 기술
+### 🛠 사용 기술
 
 ![Technologies](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Technologies.png)
 
 ---
 
-### 2-3. ⚙️ 배포 구조
+### ⚙️ 배포 구조
 
 ![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png)
 
 ---
 
-### 2-4. 🔋 Microservice Architecture
+### 🔋 Microservice Architecture
 
 **Server Side Discovery**
 
@@ -55,13 +55,13 @@
 
 ---
 
-### 2-5. ⛓ DevOps
+### ⛓ DevOps
 
 ![DevOps](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/DevOps.png)
 
 ---
 
-### 2-6. 💾 Data Flow
+### 💾 Data Flow
 
 ---
 
