@@ -34,7 +34,7 @@
 
 ### 2-2. 🛠사용 기술
 
-![Technologies](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Technologies.png){: width="70%" height="70%"}
+![Technologies](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Technologies.png)
 
 ---
 
