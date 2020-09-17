@@ -15,36 +15,39 @@
 - - 2-6 [Data Flow](#-data-flow)
 
 3. ### 📌[프로젝트 목표](#-프로젝트-목표)
-4. ### 🎥시연
+
+- - 3-1 [What is Challenging](#What-is-Challenging)
+
+4. ### 🎥[시연](#시연)
 
 ---
 
-## 1. 👨‍👩‍👧‍👦팀원 소개
+## 1. 👨‍👩‍👧‍👦 팀원 소개
 
 |    👨‍👨‍👧    |               Project Manager               |                 Leader                  |                 Leader                  |                   Leader                   |                   Member                   |    Member    |    Member    |
 | :------: | :-----------------------------------------: | :-------------------------------------: | :-------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------: | :----------: |
 | **Name** | 🧑‍🎨[장원익](https://github.com/dhslrl321) | 👰🏻[허혜진](https://github.com/hhjin015) | 👩🏻‍💻[박지훈](https://github.com/easy-day) | 🧑‍✈️[최재웅](https://github.com/CJW-MAPU) | 🧑‍🚀[서광용](https://github.com/yagi4168) | 👩‍⚖️[김예원]() | 🧝[이강산]() |
 | **Role** |                   Manager                   |                  React                  |                 Django                  |                   Spring                   |                   Django                   |     CSS      |     CSS      |
 
-## 2. 💻프로젝트 소개
+## 2. 💻 프로젝트 소개
 
-### 2-1. 🖥Overview
+### 2-1. 🖥 Overview
 
 #### 컴퓨터를 뚜두리는 우리들을 위한 _세련된_ 🔖DDoDo List🔖 뚜두 리스트.
 
-### 2-2. 🛠사용 기술
+### 2-2. 🛠 사용 기술
 
 ![Technologies](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Technologies.png)
 
 ---
 
-### 2-3. ⚙️배포 구조
+### 2-3. ⚙️ 배포 구조
 
 ![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png)
 
 ---
 
-### 2-4. 🔋Microservice Architecture
+### 2-4. 🔋 Microservice Architecture
 
 **Server Side Discovery**
 
@@ -52,17 +55,17 @@
 
 ---
 
-### 2-5. ⛓DevOps
+### 2-5. ⛓ DevOps
 
 ![DevOps](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/DevOps.png)
 
 ---
 
-### 2-6. 💾Data Flow
+### 2-6. 💾 Data Flow
 
 ---
 
-## 3. 📌프로젝트 목표
+## 3. 📌 프로젝트 목표
 
 > 본 프로젝트는 2020년도 Locs 메인 프로젝트 **IT 직업 로드맵** 서비스를 위한 첫 협업 프로젝트 입니다.
 > 애자일 방법론을 통해 애자일의 문화를 미리 경험하고 미래에 있을 문제점과 오류를 미리 발견하고자 시작하는 프로젝트 입니다.
