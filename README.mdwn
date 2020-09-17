@@ -48,6 +48,8 @@
 
 ### 2-5. ⛓DevOps
 
+![DevOps](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/DevOps.png)
+
 ### 2-6. 💾Data Flow
 
 ## 3. 📌프로젝트 목표
