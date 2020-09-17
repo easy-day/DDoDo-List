@@ -34,6 +34,8 @@
 
 ### 2-2. 🛠사용 기술
 
+![Technologies](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Technologies.png)
+
 ### 2-3. ⚙️배포 구조
 
 ![Architecture](https://github.com/dhslrl321/DDoDo-List/blob/master/Image/Deployment%20Architecture.png)
